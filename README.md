@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Martin</h1>
 
 <p align="center">
-  Welcome to my GitHub page. While you're here, I'd really appreciate a ⭐ on any repo you find interesting — or a follow, that’d be super cool.
+  Welcome to my GitHub page. While you're here, <br>I'd really appreciate a ⭐ on any repo you find interesting — or a follow, that’d be super cool.
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=magonazz1&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=magonazz1&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
 </p>
 
 <p align="left">
@@ -28,7 +28,7 @@
 > I'm currently polishing up my backend skills.  
 > Here are the technologies I work with:
 
-<table height="35" width="50%">
+<table width="50%">
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></td>
@@ -39,6 +39,10 @@
     <td align="center"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
+  </tr>
+</table>
+<table width="50%">
+  <tr>
     <td align="center"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
