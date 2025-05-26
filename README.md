@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Martin</h1>
 
 <p align="center">
-  Welcome to my GitHub page. While you're here, <br>I'd really appreciate a ⭐ on any repo you find interesting — or a follow, that’d be super cool.
+  Welcome to my GitHub page. While you're here, <br/>I'd really appreciate a ⭐ on any repo you find interesting — or a follow, that’d be super cool.
 </p>
 
 ---
@@ -9,11 +9,11 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=magonazz1&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=magonazz1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=magonazz1&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="400" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=magonazz1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="left">
