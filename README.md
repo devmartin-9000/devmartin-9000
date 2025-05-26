@@ -10,6 +10,9 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=magonazz1&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+</p>
+
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=magonazz1&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150"/>
 </p>
 
@@ -25,7 +28,7 @@
 > I'm currently polishing up my backend skills.  
 > Here are the technologies I work with:
 
-<table width="80%">
+<table width="50%">
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></td>
