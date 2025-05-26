@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋,
+<h1 align="left">Hi there 👋</h1>
 
 <p align="left">
   Welcome to my GitHub page. While you're here, <br/>I'd really appreciate a ⭐ on any repo you find interesting — or a follow, that’d be super cool.
