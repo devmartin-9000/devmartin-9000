@@ -9,11 +9,11 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=magonazz1&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=magonazz1&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" height="150"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=magonazz1&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=magonazz1&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="400" height="150"/>
 </p>
 
 <p align="left">
@@ -28,7 +28,7 @@
 > I'm currently polishing up my backend skills.  
 > Here are the technologies I work with:
 
-<table width="50%">
+<table height="35" width="50%">
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></td>
@@ -42,6 +42,8 @@
     <td align="center"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></td>
   </tr>
 </table>
 
