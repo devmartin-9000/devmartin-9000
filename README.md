@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋, I'm Martin</h1>
+<h1 align="left">Hi there 👋,
 
 <p align="left">
   Welcome to my GitHub page. While you're here, <br/>I'd really appreciate a ⭐ on any repo you find interesting — or a follow, that’d be super cool.
@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=magonazz1&theme=tokyonight" alt="Profile Summary" width="94%"/>
@@ -23,7 +23,7 @@
 
 > I specialize in front-end development, but occasionally work full stack.  
 > I'm currently polishing up my backend skills.  
-> Here are the technologies I work with:
+> Here are some of the technologies I work with:-
 
 <table width="50%">
   <tr>
