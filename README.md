@@ -9,7 +9,7 @@
 ## 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=magonazz1&theme=tokyonight" alt="Profile Summary" width="99%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=magonazz1&theme=tokyonight" alt="Profile Summary" width="99.5%"/>
 </p>
 
 <p flex align="left">
