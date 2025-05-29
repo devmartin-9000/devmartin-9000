@@ -9,12 +9,12 @@
 ## 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=magonazz1&theme=tokyonight" alt="Profile Summary" width="94%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=magonazz1&theme=tokyonight" alt="Profile Summary" width="100%"/>
 </p>
 
 <p flex align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=magonazz1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=magonazz1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=magonazz1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=magonazz1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="53%"/>
 </p>
 
 ---
