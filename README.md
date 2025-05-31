@@ -77,6 +77,8 @@
 > Having tech skills alone isn't the full recipe.  
 > Here are some non-tech skills I value and practice daily:
 
+Have a project in mind? feel free to reach out, am always excited for a new project. 
+
 - Effective Communication  
 - Team Collaboration  
 - Problem Solving  
